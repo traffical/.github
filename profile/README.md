@@ -7,21 +7,21 @@
 <h1 align="center">Traffical</h1>
 
 <p align="center">
-  Experimentation, feature management, and adaptive optimization — built on one primitive: the <strong>typed parameter</strong>.
+  <strong>Build with agents. Ship with evidence.</strong><br/>
+  Confidence infrastructure for AI-accelerated product teams.
 </p>
 
 <p align="center">
   <a href="https://traffical.io">Website</a> ·
   <a href="https://docs.traffical.io">Docs</a> ·
-  <a href="https://docs.traffical.io/quickstart">Quickstart</a> ·
-  <a href="https://app.traffical.io">Dashboard</a>
+  <a href="https://docs.traffical.io/quickstart">Quickstart</a>
 </p>
 
 ---
 
-Building got cheap — knowing what each change did, did not. Traffical keeps three things in lockstep: how fast you ship, how fast you contain changes that hurt, and how fast you produce evidence you trust.
+Shipping is getting faster. Confidence is not. AI makes product changes cheap to create — knowing what each change did stays expensive. Traffical turns changes into configurable, measurable releases, from first canary to proven default: agents write the change, evidence determines what happens next.
 
-Instead of boolean feature flags, Traffical starts from the **parameter**: a typed, versioned value with a default. A/B tests, gradual rollouts, feature flags, and contextual bandits are all policies on top of the same primitive — same SDKs, same layers, same dashboard.
+Underneath is one primitive: the **typed parameter** — a versioned value with a default. A/B tests, gradual rollouts, feature flags, and contextual bandits are all policies on top of the same primitive — same SDKs, same layers, same dashboard.
 
 ## How it works
 
